@@ -7,3 +7,5 @@ fastapi
 uvicorn
 openai
 groq
+googlesearch-python 
+pycountry
